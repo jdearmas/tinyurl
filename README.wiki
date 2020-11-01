@@ -1,25 +1,21 @@
-tinyurl
-=======
+= tinyurl =
 tinyurl is a C program that will use the TinyURL Web API to create a shorter
 version of the url that is passed to the program.
 
 
-build
-=====
+= build =
 You can compile the source code with the following command in a shell:
 
     $ make
 
 
-run
-===
+= run =
 You can run the command by passing a url into the executable in a shell:
 
     $ ./tinyurl www.example.com
 
 
-notes
-=====
+= notes =
 The Tiny URL API is located at:
 
     http://tinyurl.com/api-create.php?url=
