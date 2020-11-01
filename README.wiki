@@ -1,0 +1,10 @@
+tinyurl
+=======
+tinyurl is a C program that will use the TinyURL Web API to create a shorter
+version of the url that is passed to the program.
+
+
+
+The Tiny URL API is located at:
+
+                     http://tinyurl.com/api-create.php?url=
